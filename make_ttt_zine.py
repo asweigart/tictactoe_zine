@@ -458,4 +458,20 @@ def create_pdf_with_images(image_paths, output_pdf):
         writer.write(f)
 
 create_pdf_with_images(['sheet_1_front.png', 'sheet_1_back.png', 'sheet_2_front.png', 'sheet_2_back.png'], OUTPUT_PDF_FILENAME)
-print('PDF %s created.' % (OUTPUT_PDF_FILENAME))
+print('Print PDF %s created.' % (OUTPUT_PDF_FILENAME))
+
+
+# Create the PDF that can be read linearly on a computer:
+writer = PdfWriter()
+for page_im in [Image.open('zine_frontcover.png'), Image.open('zine_centerfold.png')] + pages_im + [Image.open('zine_backcover.png')]:
+    page_im = page_im.convert('RGB')
+    buffer = io.BytesIO()
+    page_im.save(buffer, format="PDF", resolution=300.0) 
+    buffer.seek(0)
+    reader = PdfReader(buffer)
+    writer.add_page(reader.pages[0])
+with open('tictactoe_zine_linear.pdf', "wb") as f:
+    writer.write(f)
+
+print('Linear PDF tictactoe_zine_linear created.')
+print('Done.')

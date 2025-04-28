@@ -15,6 +15,8 @@ TODO - insert photos of zine
 
 To make the zine, print out tictactoe_zine.pdf on US letter sized paper, duplexed on the long end (the long end is default).
 
+Be sure to not cut the centerfold image. It needs to be the full half-sheet. Also, leave it unfolded when stapling.
+
 TODO - add more steps and photos of the process.
 
 # The Code
