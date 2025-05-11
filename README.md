@@ -1,7 +1,9 @@
 # tictactoe_zine
 Code that generates a Choose Your Own Adventure tic tac toe game to be printed as a zine. This is a silly project.
 
-If you want to print out a zine, print TODO
+If you want to print out a zine, print [tictactoe_zine.pdf](tictactoe_zine.pdf).
+
+If you want to read the zine on your computer, view [tictactoe_zine_linear.pdf](tictactoe_zine_linear.pdf).
 
 # This is a silly project.
 
