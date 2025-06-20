@@ -13,7 +13,7 @@ And I can share the PDF on the internet with people around the world for free, a
 
 This is why I love programming; it enables us to follow up on our silly little creative impulses and share our creations with the world.
 
-[<img src="making-of-6.png" />](making-of-6.png)
+[<img src="making-of-6.webp" />](making-of-6.webp)
 
 # Making the Zine from the PDF
 
@@ -45,15 +45,15 @@ If you want to make multiple copies, I recommend:
 
 Have regular quality assurance checks throughout this process. Measure twice before doing the cutting and stapling.
 
-[<img src="making-of-1.png" />](making-of-1.png)
+[<img src="making-of-1.webp" />](making-of-1.webp)
 
-[<img src="making-of-2.png" />](making-of-2.png)
+[<img src="making-of-2.webp" />](making-of-2.webp)
 
-[<img src="making-of-3.png" />](making-of-3.png)
+[<img src="making-of-3.webp" />](making-of-3.webp)
 
-[<img src="making-of-4.png" />](making-of-4.png)
+[<img src="making-of-4.webp" />](making-of-4.webp)
 
-[<img src="making-of-5.png" />](making-of-5.png)
+[<img src="making-of-5.webp" />](making-of-5.webp)
 
 # The Code
 
