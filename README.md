@@ -27,7 +27,7 @@ Do not use the gray lines as cutting lines; it's easy for printer margin setting
 
 Fold the half-page centerfold downwards in half, with the tic tac toe boards on the outside. Place the pages on top of each other, with the centerfold on the very top. Fold the pages over to form the booklet shape. Make sure that the tic tac toe tables are in the correct order as you turn the pages.
 
-Use a marker or other flat toolk to put hard creases into the zine after doing the initial fold.
+Use a marker or other flat tool to put hard creases into the zine after doing the initial fold.
 
 To staple: Flip the booklet over so that the front and back cover are face up. Leave the center fold unfolded so it doesn't get stapled down. Put two staples along the spine. You want the flat part of the staple on the outside and the curled in parts of the staple on the inside.
 
